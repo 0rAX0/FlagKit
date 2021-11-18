@@ -1,27 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
-    <title>PW</title>
-    <desc>Created with sketchtool.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#F0F0F0" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
-            <stop stop-color="#65C6EE" offset="0%"></stop>
-            <stop stop-color="#4FAED5" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
-            <stop stop-color="#FFE044" offset="0%"></stop>
-            <stop stop-color="#FFDD32" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="PW">
-            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
-            <rect id="Mask-Copy" fill="url(#linearGradient-2)" x="0" y="0" width="21" height="15"></rect>
-            <circle id="Oval-9" fill="url(#linearGradient-3)" cx="9.5" cy="7.5" r="4.5"></circle>
-        </g>
-    </g>
+<svg width="20" height="15" viewBox="0 0 20 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_964_6943" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="15">
+<rect width="20" height="15" fill="white"/>
+</mask>
+<g mask="url(#mask0_964_6943)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V15H20V0H0Z" fill="#61C6F0"/>
+<mask id="mask1_964_6943" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="15">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V15H20V0H0Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_964_6943)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7.1875 11.25C9.43116 11.25 11.25 9.43116 11.25 7.1875C11.25 4.94384 9.43116 3.125 7.1875 3.125C4.94384 3.125 3.125 4.94384 3.125 7.1875C3.125 9.43116 4.94384 11.25 7.1875 11.25Z" fill="#FBCD17"/>
+</g>
+</g>
 </svg>

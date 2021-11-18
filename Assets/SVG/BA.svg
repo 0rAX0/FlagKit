@@ -1,32 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
-    <title>BA</title>
-    <desc>Created with sketchtool.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#F0F0F0" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
-            <stop stop-color="#0B36B2" offset="0%"></stop>
-            <stop stop-color="#042993" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
-            <stop stop-color="#FFD045" offset="0%"></stop>
-            <stop stop-color="#FECA2F" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="BA">
-            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
-            <rect id="Mask-Copy" fill="url(#linearGradient-2)" x="0" y="0" width="21" height="15"></rect>
-            <polygon id="Rectangle-2" fill="url(#linearGradient-3)" points="17 15 17 0 6.5 0"></polygon>
-            <polygon id="Star-2" fill="url(#linearGradient-1)" points="13 14 12.2928932 14.2071068 12.5 13.5 12.2928932 12.7928932 13 13 13.7071068 12.7928932 13.5 13.5 13.7071068 14.2071068"></polygon>
-            <polygon id="Star-2" fill="url(#linearGradient-1)" points="11 11 10.2928932 11.2071068 10.5 10.5 10.2928932 9.79289322 11 10 11.7071068 9.79289322 11.5 10.5 11.7071068 11.2071068"></polygon>
-            <polygon id="Star-2" fill="url(#linearGradient-1)" points="9 8 8.29289322 8.20710678 8.5 7.5 8.29289322 6.79289322 9 7 9.70710678 6.79289322 9.5 7.5 9.70710678 8.20710678"></polygon>
-            <polygon id="Star-2" fill="url(#linearGradient-1)" points="7 5 6.29289322 5.20710678 6.5 4.5 6.29289322 3.79289322 7 4 7.70710678 3.79289322 7.5 4.5 7.70710678 5.20710678"></polygon>
-            <polygon id="Star-2" fill="url(#linearGradient-1)" points="5 2 4.29289322 2.20710678 4.5 1.5 4.29289322 0.792893219 5 1 5.70710678 0.792893219 5.5 1.5 5.70710678 2.20710678"></polygon>
-        </g>
-    </g>
+<svg width="20" height="15" viewBox="0 0 20 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_964_6766)">
+<mask id="mask0_964_6766" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="22" height="15">
+<rect width="21.25" height="15" fill="white"/>
+</mask>
+<g mask="url(#mask0_964_6766)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0H20.25V15H0V0Z" fill="#2E42A5"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6.25 0H19V15L6.25 0Z" fill="#FECA00"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4.44252 1.74609L3.70779 2.13236L3.84811 1.31423L3.2537 0.734823L4.07516 0.615458L4.44252 -0.128906L4.80989 0.615458L5.63134 0.734823L5.03693 1.31423L5.17725 2.13236L4.44252 1.74609Z" fill="#F7FCFF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6.6217 4.4212L5.88697 4.80747L6.02729 3.98934L5.43288 3.40993L6.25433 3.29057L6.6217 2.5462L6.98906 3.29057L7.81052 3.40993L7.21611 3.98934L7.35643 4.80747L6.6217 4.4212Z" fill="#F7FCFF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M8.66464 7.02399L7.9299 7.41026L8.07023 6.59212L7.47581 6.01272L8.29727 5.89335L8.66464 5.14899L9.032 5.89335L9.85346 6.01272L9.25905 6.59212L9.39937 7.41026L8.66464 7.02399Z" fill="#F7FCFF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10.6659 9.51825L9.93112 9.90452L10.0714 9.08639L9.47704 8.50698L10.2985 8.38761L10.6659 7.64325L11.0332 8.38761L11.8547 8.50698L11.2603 9.08639L11.4006 9.90452L10.6659 9.51825Z" fill="#F7FCFF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12.8215 12.0854L12.0868 12.4717L12.2271 11.6536L11.6327 11.0742L12.4542 10.9548L12.8215 10.2104L13.1889 10.9548L14.0103 11.0742L13.4159 11.6536L13.5563 12.4717L12.8215 12.0854Z" fill="#F7FCFF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15.2043 14.5694L14.4695 14.9557L14.6099 14.1375L14.0155 13.5581L14.8369 13.4388L15.2043 12.6944L15.5716 13.4388L16.3931 13.5581L15.7987 14.1375L15.939 14.9557L15.2043 14.5694Z" fill="#F7FCFF"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_964_6766">
+<rect width="20" height="15" fill="white"/>
+</clipPath>
+</defs>
 </svg>

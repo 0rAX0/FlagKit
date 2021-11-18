@@ -1,33 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
-    <title>AZ</title>
-    <desc>Created with sketchtool.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#F0F0F0" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
-            <stop stop-color="#24AAD5" offset="0%"></stop>
-            <stop stop-color="#1899C2" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
-            <stop stop-color="#ED1845" offset="0%"></stop>
-            <stop stop-color="#DE0C39" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
-            <stop stop-color="#21BF75" offset="0%"></stop>
-            <stop stop-color="#19AD68" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="AZ">
-            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
-            <rect id="Rectangle-2" fill="url(#linearGradient-2)" x="0" y="0" width="21" height="5"></rect>
-            <rect id="Rectangle-2" fill="url(#linearGradient-3)" x="0" y="5" width="21" height="5"></rect>
-            <rect id="Rectangle-2" fill="url(#linearGradient-4)" x="0" y="10" width="21" height="5"></rect>
-            <path d="M11.3335689,6.25274924 C11.3059482,6.25092604 11.2780822,6.25 11.25,6.25 C10.5596441,6.25 10,6.80964406 10,7.5 C10,8.19035594 10.5596441,8.75 11.25,8.75 C11.2780822,8.75 11.3059482,8.74907396 11.3335689,8.74725076 C11.0951725,8.9068934 10.8084594,9 10.5,9 C9.67157288,9 9,8.32842712 9,7.5 C9,6.67157288 9.67157288,6 10.5,6 C10.8084594,6 11.0951725,6.0931066 11.3335689,6.25274924 Z M11.5,8 C11.2238576,8 11,7.77614237 11,7.5 C11,7.22385763 11.2238576,7 11.5,7 C11.7761424,7 12,7.22385763 12,7.5 C12,7.77614237 11.7761424,8 11.5,8 Z" id="Oval-68" fill="url(#linearGradient-1)"></path>
-        </g>
-    </g>
+<svg width="20" height="15" viewBox="0 0 20 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_964_6765" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="15">
+<rect width="20" height="15" fill="white"/>
+</mask>
+<g mask="url(#mask0_964_6765)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V15H20V0H0Z" fill="#AF0100"/>
+<mask id="mask1_964_6765" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="15">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V15H20V0H0Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_964_6765)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V5H20V0H0Z" fill="#3CA5D9"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 10V15H20V10H0Z" fill="#73BE4A"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10.7261 9.31666C9.88424 9.12255 9.22545 8.4607 9.23418 7.4895C9.24236 6.58037 9.82879 5.81131 10.7547 5.60231C11.6806 5.39331 12.4951 5.83405 12.4951 5.83405C12.2399 5.26661 11.3516 4.8687 10.6229 4.87061C9.26645 4.87417 7.81936 5.90969 7.80513 7.49099C7.79038 9.1304 9.35065 10.0624 10.7238 10.0588C11.8246 10.0559 12.3476 9.34744 12.4561 9.04617C12.4561 9.04617 11.568 9.51077 10.7261 9.31666ZM11.2611 8.38794L11.9958 7.87666L12.7306 8.38794L12.4714 7.53117L13.1847 6.99039L12.2897 6.97216L11.9958 6.12666L11.702 6.97216L10.807 6.99039L11.5203 7.53117L11.2611 8.38794Z" fill="#F7FCFF"/>
+</g>
+</g>
 </svg>

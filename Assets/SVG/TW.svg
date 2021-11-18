@@ -1,28 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
-    <title>TW</title>
-    <desc>Created with sketchtool.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#F0F0F0" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="93.7672335%" id="linearGradient-2">
-            <stop stop-color="#FE3030" offset="0%"></stop>
-            <stop stop-color="#FF0000" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
-            <stop stop-color="#0909B6" offset="0%"></stop>
-            <stop stop-color="#000096" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="TW">
-            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
-            <rect id="Rectangle-2" fill="url(#linearGradient-2)" x="0" y="0" width="21" height="15"></rect>
-            <polygon id="Rectangle-2" fill="url(#linearGradient-3)" points="0 8 11 8 11 0 0 0"></polygon>
-            <polygon id="Star-27" fill="url(#linearGradient-1)" points="5.5 5.25 4.54329142 6.30969883 4.61611652 4.88388348 3.19030117 4.95670858 4.25 4 3.19030117 3.04329142 4.61611652 3.11611652 4.54329142 1.69030117 5.5 2.75 6.45670858 1.69030117 6.38388348 3.11611652 7.80969883 3.04329142 6.75 4 7.80969883 4.95670858 6.38388348 4.88388348 6.45670858 6.30969883"></polygon>
-        </g>
-    </g>
+<svg width="20" height="15" viewBox="0 0 20 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_964_6986" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="15">
+<rect width="20" height="15" fill="white"/>
+</mask>
+<g mask="url(#mask0_964_6986)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V15H20V0H0Z" fill="#EF0000"/>
+<mask id="mask1_964_6986" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="15">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V15H20V0H0Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_964_6986)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V8.75H11.25V0H0Z" fill="#2E42A5"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M5.45602 6.75672L4.52998 7.91204L4.30567 6.44848L2.92604 6.986L3.46355 5.60637L2 5.38206L3.15532 4.45602L2 3.52998L3.46355 3.30567L2.92604 1.92604L4.30567 2.46355L4.52998 1L5.45602 2.15532L6.38206 1L6.60637 2.46355L7.986 1.92604L7.44848 3.30567L8.91204 3.52998L7.75672 4.45602L8.91204 5.38206L7.44848 5.60637L7.986 6.986L6.60637 6.44848L6.38206 7.91204L5.45602 6.75672ZM5.45602 6.24498C6.44404 6.24498 7.24498 5.44404 7.24498 4.45602C7.24498 3.468 6.44404 2.66705 5.45602 2.66705C4.468 2.66705 3.66705 3.468 3.66705 4.45602C3.66705 5.44404 4.468 6.24498 5.45602 6.24498ZM6.88719 4.45602C6.88719 5.24643 6.24643 5.88719 5.45602 5.88719C4.6656 5.88719 4.02484 5.24643 4.02484 4.45602C4.02484 3.6656 4.6656 3.02484 5.45602 3.02484C6.24643 3.02484 6.88719 3.6656 6.88719 4.45602Z" fill="#FEFFFF"/>
+</g>
+</g>
 </svg>

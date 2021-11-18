@@ -1,35 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
-    <title>NP</title>
-    <desc>Created with sketchtool.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#F0F0F0" offset="100%"></stop>
-        </linearGradient>
-        <path d="M0,4.52970994e-14 L1.49531555,1.44969983e-09 C1.77404508,1.71991806e-09 2.18849134,0.125660898 2.41306716,0.27537811 L13.1751914,7.4501276 C13.6307206,7.75381374 13.5469637,8 13.0029699,8 L6,8 L13.2473794,14.341457 C13.6630403,14.7051603 13.5500512,15 12.9931545,15 L0,15 L0,4.52970994e-14 Z" id="path-2"></path>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
-            <stop stop-color="#EE1B44" offset="0%"></stop>
-            <stop stop-color="#DD153C" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
-            <stop stop-color="#0543A8" offset="0%"></stop>
-            <stop stop-color="#003893" offset="100%"></stop>
-        </linearGradient>
-        <path d="M0,0 L1.49531555,0 C1.77404508,0 2.18849134,0.125660896 2.41306716,0.275378108 L13.1751914,7.4501276 C13.6307206,7.75381374 13.5469637,8 13.0029699,8 L6,8 L13.2473794,14.341457 C13.6630403,14.7051603 13.5500512,15 12.9931545,15 L0,15 L0,0 Z" id="path-6"></path>
-    </defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="NP">
-            <mask id="mask-3" fill="white">
-                <use xlink:href="#path-2"></use>
-            </mask>
-            <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
-            <g id="Mask-Copy" mask="url(#mask-3)">
-                <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-6"></use>
-                <path stroke="url(#linearGradient-5)" stroke-width="1" d="M0.5,0.5 L0.5,14.5 L12.6692753,14.5 L4.6692753,7.5 L12.3486122,7.5 L2.13571706,0.691403255 C1.9922793,0.59577808 1.67411734,0.5 1.49531555,0.5 L0.5,0.5 Z"></path>
-            </g>
-            <path d="M5.13831521,5.85057555 C5.42639761,5.77162618 5.69198348,5.66364925 5.92688132,5.53210575 C5.69389395,6.37838213 4.9187606,7 3.99844063,7 C3.07812065,7 2.3029873,6.37838213 2.06999993,5.53210575 C2.30554809,5.66401343 2.57195443,5.77222387 2.86095923,5.85123059 L3.25,5.5 L2.6141807,4.92597485 L3.46966991,4.96966991 L3.42597485,4.1141807 L4,4.75 L4.57402515,4.1141807 L4.53033009,4.96966991 L5.3858193,4.92597485 L4.75,5.5 L5.13831521,5.85057555 L5.13831521,5.85057555 Z M4,12 L3.23463314,12.8477591 L3.29289322,11.7071068 L2.15224093,11.7653669 L3,11 L2.15224093,10.2346331 L3.29289322,10.2928932 L3.23463314,9.15224093 L4,10 L4.76536686,9.15224093 L4.70710678,10.2928932 L5.84775907,10.2346331 L5,11 L5.84775907,11.7653669 L4.70710678,11.7071068 L4.76536686,12.8477591 L4,12 Z" id="Star-93" fill="url(#linearGradient-1)" mask="url(#mask-3)"></path>
-        </g>
-    </g>
+<svg width="20" height="15" viewBox="0 0 20 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_964_6925)">
+<rect width="20" height="15" fill="white"/>
+<path d="M7.11834 7.93841L12.6718 14.5H0.5V0.97794L12.001 7.11539H7.5H6.42178L7.11834 7.93841Z" fill="#C51918" stroke="#4857A1"/>
+<mask id="mask0_964_6925" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="14" height="15">
+<path d="M7.11834 7.93841L12.6718 14.5H0.5V0.97794L12.001 7.11539H7.5H6.42178L7.11834 7.93841Z" fill="white" stroke="white"/>
+</mask>
+<g mask="url(#mask0_964_6925)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3.64352 12.5448L2.87779 13.5233L2.84244 12.2885L1.63881 12.637L2.34735 11.6175L1.16557 11.2029L2.34735 10.7882L1.63881 9.76876L2.84244 10.1172L2.87779 8.88244L3.64352 9.86095L4.40925 8.88244L4.4446 10.1172L5.64822 9.76876L4.93969 10.7882L6.12147 11.2029L4.93969 11.6175L5.64822 12.637L4.4446 12.2885L4.40925 13.5233L3.64352 12.5448Z" fill="#F7FCFF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3.62503 5.23928L3.22513 5.7503L3.20667 5.10544L2.57809 5.28743L2.94811 4.75504L2.33094 4.53848L2.94811 4.32192L2.57809 3.78953L3.20667 3.97152L3.22513 3.32666L3.62503 3.83768L4.02493 3.32666L4.04339 3.97152L4.67198 3.78953L4.30195 4.32192L4.91913 4.53848L4.30195 4.75504L4.67198 5.28743L4.04339 5.10544L4.02493 5.7503L3.62503 5.23928Z" fill="#F7FCFF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3.54065 5.0892C4.91069 5.09476 5.64115 4.30539 5.64115 4.30539C5.78566 5.20611 4.66996 5.80539 3.554 5.80539C2.43805 5.80539 1.7624 4.9885 1.34614 4.30539C1.34614 4.30539 2.17061 5.08364 3.54065 5.0892Z" fill="#F9FAFA"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_964_6925">
+<rect width="20" height="15" fill="white"/>
+</clipPath>
+</defs>
 </svg>

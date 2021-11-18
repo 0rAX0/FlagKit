@@ -1,32 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
-    <title>BO</title>
-    <desc>Created with sketchtool.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#F0F0F0" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
-            <stop stop-color="#058C3F" offset="0%"></stop>
-            <stop stop-color="#007A34" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
-            <stop stop-color="#E63426" offset="0%"></stop>
-            <stop stop-color="#D52B1E" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
-            <stop stop-color="#FFEB1F" offset="0%"></stop>
-            <stop stop-color="#FAE400" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="BO">
-            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
-            <rect id="Rectangle-2" fill="url(#linearGradient-2)" x="0" y="10" width="21" height="5"></rect>
-            <rect id="Rectangle-2" fill="url(#linearGradient-3)" x="0" y="0" width="21" height="5"></rect>
-            <rect id="Rectangle-2" fill="url(#linearGradient-4)" x="0" y="5" width="21" height="5"></rect>
-        </g>
-    </g>
+<svg width="20" height="15" viewBox="0 0 20 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_964_6778" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="15">
+<rect width="20" height="15" fill="white"/>
+</mask>
+<g mask="url(#mask0_964_6778)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V15H20V0H0Z" fill="#FECA00"/>
+<mask id="mask1_964_6778" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="15">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V15H20V0H0Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_964_6778)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V5H20V0H0Z" fill="#DB501C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 10V15H20V10H0Z" fill="#5EAA22"/>
+<path d="M7.27961 7.03754C7.27961 7.03754 7.04719 9.41823 9.16313 9.41823C11.2791 9.41823 10.7405 9.41823 10.7405 9.41823C10.7405 9.41823 12.9664 9.27301 12.7079 7.03754" stroke="#DB501C" stroke-width="0.9375"/>
+<path d="M11.4062 7.375C11.4062 8.15165 10.7767 8.78125 10 8.78125C9.22335 8.78125 8.59375 8.15165 8.59375 7.375C8.59375 6.59835 9.22335 5.96875 10 5.96875C10.7767 5.96875 11.4062 6.59835 11.4062 7.375Z" fill="#FECA00" stroke="#68B9E8" stroke-width="0.9375"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 7.5C10.3452 7.5 10.625 7.22018 10.625 6.875C10.625 6.52982 10.3452 6.25 10 6.25C9.65482 6.25 9.375 6.52982 9.375 6.875C9.375 7.22018 9.65482 7.5 10 7.5Z" fill="#DB501C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10.0625 8.5C10.6493 8.5 11.125 8.27614 11.125 8C11.125 7.72386 10.6493 7.5 10.0625 7.5C9.47571 7.5 9.00002 7.72386 9.00002 8C9.00002 8.27614 9.47571 8.5 10.0625 8.5Z" fill="#5EAA22"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10.0625 6.25C10.8909 6.25 11.5625 6.02614 11.5625 5.75C11.5625 5.47386 10.8909 5.25 10.0625 5.25C9.23409 5.25 8.56252 5.47386 8.56252 5.75C8.56252 6.02614 9.23409 6.25 10.0625 6.25Z" fill="#674F28"/>
+</g>
+</g>
 </svg>

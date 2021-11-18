@@ -1,32 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
-    <title>MY</title>
-    <desc>Created with sketchtool.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#F0F0F0" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
-            <stop stop-color="#E1244A" offset="0%"></stop>
-            <stop stop-color="#BE1134" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
-            <stop stop-color="#0C3F8E" offset="0%"></stop>
-            <stop stop-color="#032A67" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
-            <stop stop-color="#FFD34F" offset="0%"></stop>
-            <stop stop-color="#FFCB2F" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="MY">
-            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
-            <path d="M10,0 L21,0 L21,1 L10,1 L10,0 Z M10,2 L21,2 L21,3 L10,3 L10,2 Z M10,4 L21,4 L21,5 L10,5 L10,4 Z M10,6 L21,6 L21,7 L10,7 L10,6 Z M0,8 L21,8 L21,9 L0,9 L0,8 Z M0,10 L21,10 L21,11 L0,11 L0,10 Z M0,12 L21,12 L21,13 L0,13 L0,12 Z M0,14 L21,14 L21,15 L0,15 L0,14 Z" id="Rectangle-537" fill="url(#linearGradient-2)"></path>
-            <rect id="Rectangle-1568" fill="url(#linearGradient-3)" x="0" y="0" width="12" height="8"></rect>
-            <path d="M6.87363497,1.6568923 C6.60168078,1.55545057 6.30731598,1.5 6,1.5 C4.61928813,1.5 3.5,2.61928813 3.5,4 C3.5,5.38071187 4.61928813,6.5 6,6.5 C6.30731598,6.5 6.60168078,6.44454943 6.87363497,6.3431077 C6.36024587,6.75416668 5.70883166,7 5,7 C3.34314575,7 2,5.65685425 2,4 C2,2.34314575 3.34314575,1 5,1 C5.70883166,1 6.36024587,1.24583332 6.87363497,1.6568923 Z M8,4.81999999 L7.13223252,5.80193774 L7.35889819,4.51126163 L6.05014418,4.44504187 L7.20055912,3.81753284 L6.43633704,2.7530204 L7.64421534,3.26120553 L8,2 L8.35578466,3.26120553 L9.56366296,2.7530204 L8.79944088,3.81753284 L9.94985582,4.44504187 L8.64110181,4.51126163 L8.86776748,5.80193774 L8,4.81999999 Z" id="Oval-12" fill="url(#linearGradient-4)"></path>
-        </g>
-    </g>
+<svg width="20" height="15" viewBox="0 0 20 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_964_6915" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="15">
+<rect width="20" height="15" fill="white"/>
+</mask>
+<g mask="url(#mask0_964_6915)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0H20V15H0V0Z" fill="#F7FCFF"/>
+<rect x="0.0169735" y="3.125" width="20" height="1.8125" fill="#E31D1C"/>
+<rect x="0.0169735" y="6.375" width="20" height="1.8125" fill="#E31D1C"/>
+<rect x="0.0697899" y="9.5" width="20" height="1.5625" fill="#E31D1C"/>
+<rect x="0.0697899" y="12.625" width="20" height="1.6875" fill="#E31D1C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0H20V1.5625H0V0Z" fill="#E31D1C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0H10V8.5H0V0Z" fill="#3D58DB"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M2.24597 3.87639C2.24597 4.73653 2.65111 5.54992 3.47532 5.54992C4.71194 5.54992 4.95252 5.28628 5.52955 4.92254C5.66597 5.22897 5.20581 6.54028 3.45845 6.54028C2.06079 6.51214 0.931269 5.38931 0.931269 3.87639C0.931269 2.13982 2.2085 1.20198 3.42337 1.2126C4.49589 1.2126 5.63341 1.82119 5.59855 2.59759C5.09321 2.10393 4.54449 2.10393 3.63106 2.10393C2.71763 2.10393 2.24597 3.01615 2.24597 3.87639Z" fill="#FECA00"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6.875 4.5625L6.29559 5.40823L6.32395 4.38345L5.35809 4.7271L5.98338 3.9147L5 3.625L5.98338 3.3353L5.35809 2.5229L6.32395 2.86655L6.29559 1.84177L6.875 2.6875L7.45441 1.84177L7.42605 2.86655L8.39191 2.5229L7.76662 3.3353L8.75 3.625L7.76662 3.9147L8.39191 4.7271L7.42605 4.38345L7.45441 5.40823L6.875 4.5625Z" fill="#FECA00"/>
+</g>
 </svg>

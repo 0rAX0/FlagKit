@@ -1,36 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
-    <title>BI</title>
-    <desc>Created with sketchtool.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#F0F0F0" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
-            <stop stop-color="#E4233B" offset="0%"></stop>
-            <stop stop-color="#CC162C" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
-            <stop stop-color="#34CD4E" offset="0%"></stop>
-            <stop stop-color="#2AB441" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
-            <stop stop-color="#DF2239" offset="0%"></stop>
-            <stop stop-color="#CC162C" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="BI">
-            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
-            <g id="Group-2" transform="translate(-2.080000, -1.440000)">
-                <rect id="Mask-Copy" fill="url(#linearGradient-2)" x="2.08023771" y="1.43733467" width="21" height="15"></rect>
-                <polygon id="Rectangle-253" fill="url(#linearGradient-3)" points="2 1.43733467 11 8.93733467 2 16.4373347"></polygon>
-                <polygon id="Rectangle-253" fill="url(#linearGradient-3)" transform="translate(18.580000, 8.937335) scale(-1, 1) translate(-18.580000, -8.937335) " points="14.0799999 1.43733467 23.0799999 8.93733467 14.0799999 16.4373347"></polygon>
-                <path d="M10.3586667,6.23264816 L1.11838581,-1.77635684e-15 L1.11022302e-15,1.65807515 L9.23955861,7.89023612 C9.13603457,8.22085713 9.08023771,8.57257987 9.08023771,8.93733467 C9.08023771,9.30208947 9.13603457,9.65381222 9.23955861,9.98443323 L1.77635684e-15,16.2165942 L1.11838581,17.8746693 L10.3586667,11.6420212 C10.9629797,12.1389684 11.7367651,12.4373347 12.5802377,12.4373347 C13.4237103,12.4373347 14.1974957,12.1389684 14.8018087,11.6420212 L24.0420896,17.8746693 L25.1604754,16.2165942 L15.9209168,9.98443323 C16.0244408,9.65381222 16.0802377,9.30208947 16.0802377,8.93733467 C16.0802377,8.57257987 16.0244408,8.22085713 15.9209168,7.89023612 L25.1604754,1.65807515 L24.0420896,-3.55271368e-15 L14.8018087,6.23264816 C14.1974957,5.73570091 13.4237103,5.43733467 12.5802377,5.43733467 C11.7367651,5.43733467 10.9629797,5.73570091 10.3586667,6.23264816 Z" id="Rectangle-2" fill="url(#linearGradient-1)"></path>
-                <path d="M12.5802377,7.93733467 L11.8731309,8.14444145 L12.0802377,7.43733467 L11.8731309,6.73022789 L12.5802377,6.93733467 L13.2873445,6.73022789 L13.0802377,7.43733467 L13.2873445,8.14444145 L12.5802377,7.93733467 Z M11.0802377,10.4373347 L10.3731309,10.6444415 L10.5802377,9.93733467 L10.3731309,9.23022789 L11.0802377,9.43733467 L11.7873445,9.23022789 L11.5802377,9.93733467 L11.7873445,10.6444415 L11.0802377,10.4373347 Z M14.0802377,10.4373347 L13.3731309,10.6444415 L13.5802377,9.93733467 L13.3731309,9.23022789 L14.0802377,9.43733467 L14.7873445,9.23022789 L14.5802377,9.93733467 L14.7873445,10.6444415 L14.0802377,10.4373347 Z" id="Star-2" fill="url(#linearGradient-4)"></path>
-            </g>
-        </g>
-    </g>
+<svg width="20" height="15" viewBox="0 0 20 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_964_6773" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="15">
+<rect width="20" height="15" fill="white"/>
+</mask>
+<g mask="url(#mask0_964_6773)">
+<rect width="20" height="15" rx="1.25" fill="#5EAA22"/>
+<mask id="path-3-outside-1_964_6773" maskUnits="userSpaceOnUse" x="-5" y="-2" width="30" height="19" fill="black">
+<rect fill="white" x="-5" y="-2" width="30" height="19"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 7.5L20 0H0L10 7.5ZM10 7.5L0 15H20L10 7.5Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 7.5L20 0H0L10 7.5ZM10 7.5L0 15H20L10 7.5Z" fill="#DD2C2B"/>
+<path d="M20 0L20.9375 1.25L24.6875 -1.5625H20V0ZM0 0V-1.5625H-4.6875L-0.9375 1.25L0 0ZM0 15L-0.9375 13.75L-4.6875 16.5625H0V15ZM20 15V16.5625H24.6875L20.9375 13.75L20 15ZM19.0625 -1.25L9.0625 6.25L10.9375 8.75L20.9375 1.25L19.0625 -1.25ZM0 1.5625H20V-1.5625H0V1.5625ZM10.9375 6.25L0.9375 -1.25L-0.9375 1.25L9.0625 8.75L10.9375 6.25ZM9.0625 6.25L-0.9375 13.75L0.9375 16.25L10.9375 8.75L9.0625 6.25ZM0 16.5625H20V13.4375H0V16.5625ZM20.9375 13.75L10.9375 6.25L9.0625 8.75L19.0625 16.25L20.9375 13.75Z" fill="white" mask="url(#path-3-outside-1_964_6773)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 11.25C12.0711 11.25 13.75 9.57107 13.75 7.5C13.75 5.42893 12.0711 3.75 10 3.75C7.92893 3.75 6.25 5.42893 6.25 7.5C6.25 9.57107 7.92893 11.25 10 11.25Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10.1044 6.51794L9.36967 6.90422L9.50999 6.08608L8.91558 5.50667H9.73704L10.1044 4.64294L10.4718 5.50667H11.2932L10.6988 6.08608L10.8391 6.90422L10.1044 6.51794Z" fill="#DD2C2B"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M8.3513 9.01794L7.61656 9.40422L7.75689 8.58608L7.16248 8.00667H7.98393L8.3513 7.14294L8.71866 8.00667H9.54012L8.94571 8.58608L9.08603 9.40422L8.3513 9.01794Z" fill="#DD2C2B"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11.8514 9.01794L11.1166 9.40422L11.2569 8.58608L10.6625 8.00667H11.484L11.8514 7.14294L12.2187 8.00667H13.0402L12.4458 8.58608L12.5861 9.40422L11.8514 9.01794Z" fill="#DD2C2B"/>
+</g>
 </svg>

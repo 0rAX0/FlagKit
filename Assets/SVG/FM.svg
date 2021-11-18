@@ -1,23 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
-    <title>FM</title>
-    <desc>Created with sketchtool.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#F0F0F0" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
-            <stop stop-color="#95CEF5" offset="0%"></stop>
-            <stop stop-color="#78B3DC" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="FM">
-            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
-            <rect id="Mask-Copy" fill="url(#linearGradient-2)" x="0" y="0" width="21" height="15"></rect>
-            <path d="M10.5,4.31999999 L9.3244295,5.11803399 L9.72013366,3.75339393 L8.59788697,2.88196601 L10.0180161,2.83660607 L10.5,1.5 L10.9819839,2.83660607 L12.402113,2.88196601 L11.2798663,3.75339393 L11.6755705,5.11803399 L10.5,4.31999999 Z M10.5,12.32 L9.3244295,13.118034 L9.72013366,11.7533939 L8.59788697,10.881966 L10.0180161,10.8366061 L10.5,9.5 L10.9819839,10.8366061 L12.402113,10.881966 L11.2798663,11.7533939 L11.6755705,13.118034 L10.5,12.32 Z M14.5,8.31999999 L13.3244295,9.11803399 L13.7201337,7.75339393 L12.597887,6.88196601 L14.0180161,6.83660607 L14.5,5.5 L14.9819839,6.83660607 L16.402113,6.88196601 L15.2798663,7.75339393 L15.6755705,9.11803399 L14.5,8.31999999 Z M6.5,8.31999999 L5.3244295,9.11803399 L5.72013366,7.75339393 L4.59788697,6.88196601 L6.0180161,6.83660607 L6.5,5.5 L6.9819839,6.83660607 L8.40211303,6.88196601 L7.27986634,7.75339393 L7.6755705,9.11803399 L6.5,8.31999999 Z" id="Star-33" fill="url(#linearGradient-1)"></path>
-        </g>
-    </g>
+<svg width="20" height="15" viewBox="0 0 20 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_964_6824" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="15">
+<rect width="20" height="15" fill="white"/>
+</mask>
+<g mask="url(#mask0_964_6824)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V15H20V0H0Z" fill="#63B3E1"/>
+<mask id="mask1_964_6824" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="15">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V15H20V0H0Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_964_6824)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 4.5625L8.8979 5.14191L9.10838 3.9147L8.21677 3.04559L9.44895 2.86655L10 1.75L10.551 2.86655L11.7832 3.04559L10.8916 3.9147L11.1021 5.14191L10 4.5625Z" fill="#F7FCFF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 12.0625L8.8979 12.6419L9.10839 11.4147L8.21677 10.5456L9.44895 10.3665L10 9.25L10.551 10.3665L11.7832 10.5456L10.8916 11.4147L11.1021 12.6419L10 12.0625Z" fill="#F7FCFF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6.12503 8.4375L5.02293 9.01691L5.23342 7.7897L4.3418 6.92059L5.57398 6.74155L6.12503 5.625L6.67608 6.74155L7.90826 6.92059L7.01665 7.7897L7.22713 9.01691L6.12503 8.4375Z" fill="#F7FCFF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M13.75 8.4375L12.6479 9.01691L12.8584 7.7897L11.9668 6.92059L13.199 6.74155L13.75 5.625L14.301 6.74155L15.5332 6.92059L14.6416 7.7897L14.8521 9.01691L13.75 8.4375Z" fill="#F7FCFF"/>
+</g>
+</g>
 </svg>

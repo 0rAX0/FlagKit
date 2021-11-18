@@ -1,33 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
-    <title>DO</title>
-    <desc>Created with sketchtool.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#F0F0F0" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
-            <stop stop-color="#083D7A" offset="0%"></stop>
-            <stop stop-color="#032F61" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
-            <stop stop-color="#DF1E35" offset="0%"></stop>
-            <stop stop-color="#CC162C" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="DO">
-            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
-            <rect id="Rectangle-2" fill="url(#linearGradient-2)" x="0" y="0" width="9" height="6"></rect>
-            <rect id="Rectangle-2" fill="url(#linearGradient-2)" x="12" y="9" width="9" height="6"></rect>
-            <rect id="Rectangle-2" fill="url(#linearGradient-3)" x="0" y="9" width="9" height="6"></rect>
-            <rect id="Rectangle-2" fill="url(#linearGradient-3)" x="12" y="0" width="9" height="6"></rect>
-            <path d="M9,6 L0,6 L0,9 L9,9 L9,15 L12,15 L12,9 L21,9 L21,6 L12,6 L12,0 L9,0 L9,6 Z" id="Rectangle-2" fill="url(#linearGradient-1)"></path>
-            <path d="M10.5,6 C9.67157288,6 9,6.67157288 9,7.5 C9,8.32842712 9.67157288,9 10.5,9 L10.5,9 C11.3284271,9 12,8.32842712 12,7.5" id="Oval-85" fill-opacity="0.2" fill="#C93127" transform="translate(10.500000, 7.500000) rotate(-45.000000) translate(-10.500000, -7.500000) "></path>
-            <circle id="Oval-85" fill="#042F60" cx="10.5" cy="7.5" r="1"></circle>
-            <path d="M11.5606602,8.56066017 C10.9748737,9.14644661 10.0251263,9.14644661 9.43933983,8.56066017 C8.85355339,7.97487373 8.85355339,7.02512627 9.43933983,6.43933983 L9.79289322,6.79289322 C9.40236893,7.18341751 9.40236893,7.81658249 9.79289322,8.20710678 C10.1834175,8.59763107 10.8165825,8.59763107 11.2071068,8.20710678 C11.5976311,7.81658249 11.5976311,7.18341751 11.2071068,6.79289322 L11.5606602,6.43933983 C12.1464466,7.02512627 12.1464466,7.97487373 11.5606602,8.56066017 Z M11.5606602,8.56066017 C10.9748737,9.14644661 10.0251263,9.14644661 9.43933983,8.56066017 C8.85355339,7.97487373 8.85355339,7.02512627 9.43933983,6.43933983 L9.79289322,6.79289322 C9.40236893,7.18341751 9.40236893,7.81658249 9.79289322,8.20710678 C10.1834175,8.59763107 10.8165825,8.59763107 11.2071068,8.20710678 C11.5976311,7.81658249 11.5976311,7.18341751 11.2071068,6.79289322 L11.5606602,6.43933983 C12.1464466,7.02512627 12.1464466,7.97487373 11.5606602,8.56066017 Z" id="Oval-85" fill="#0F6D1A" fill-rule="nonzero"></path>
-        </g>
-    </g>
+<svg width="20" height="15" viewBox="0 0 20 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_964_6812" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="15">
+<rect width="20" height="15" fill="white"/>
+</mask>
+<g mask="url(#mask0_964_6812)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V15H20V0H0Z" fill="#C51918"/>
+<mask id="mask1_964_6812" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="15">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V15H20V0H0Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_964_6812)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M8.75 0H11.25V6.25H20V8.75H11.25V15H8.75V8.75H0V6.25H8.75V0Z" fill="#F7FCFF"/>
+<rect width="8.75" height="6.25" fill="#4257BF"/>
+<rect x="11.25" y="8.75" width="8.75" height="6.25" fill="#4257BF"/>
+<path d="M8.52307 6.94421L9.14523 7.00376C9.03874 8.11634 9.17713 8.58513 9.40199 8.58513V9.21013C8.62425 9.21013 8.38407 8.39649 8.52307 6.94421Z" fill="#309404"/>
+<path d="M11.5167 6.94421L10.8945 7.00376C11.001 8.11634 10.8626 8.58513 10.6377 8.58513V9.21013C11.4155 9.21013 11.6557 8.39649 11.5167 6.94421Z" fill="#309404"/>
+<rect x="9.20454" y="6.68268" width="0.590909" height="0.923077" fill="#003994"/>
+<path d="M10.1136 7.77884H10.7045V8.24737C10.7045 8.49841 10.501 8.70192 10.25 8.70192H10.1136V7.77884Z" fill="#003994"/>
+<rect x="10.0682" y="6.625" width="0.590909" height="0.923077" fill="#DE2110"/>
+<path d="M9.20454 7.77884H9.79545V8.70192H9.65909C9.40805 8.70192 9.20454 8.49841 9.20454 8.24737V7.77884Z" fill="#DE2110"/>
+<path d="M8.95903 6.63085L8.54099 6.16624C8.98245 5.76902 9.44255 5.5625 9.9164 5.5625C10.3902 5.5625 10.8503 5.76902 11.2918 6.16624L10.8738 6.63085C10.5394 6.33001 10.2219 6.1875 9.9164 6.1875C9.61088 6.1875 9.29338 6.33001 8.95903 6.63085Z" fill="#00319C"/>
+<path d="M9.00447 9.74624L8.58643 9.28163C9.02789 8.88441 9.48799 8.67789 9.96184 8.67789C10.4357 8.67789 10.8958 8.88441 11.3372 9.28163L10.9192 9.74624C10.5849 9.4454 10.2674 9.30289 9.96184 9.30289C9.65632 9.30289 9.33882 9.4454 9.00447 9.74624Z" fill="#DE2110"/>
+</g>
+</g>
 </svg>

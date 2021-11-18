@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
-    <title>SG</title>
-    <desc>Created with sketchtool.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#F0F0F0" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
-            <stop stop-color="#E12237" offset="0%"></stop>
-            <stop stop-color="#CE1126" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="SG">
-            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
-            <rect id="Rectangle-2" fill="url(#linearGradient-2)" x="0" y="0" width="21" height="8"></rect>
-            <rect id="Rectangle-2" fill="url(#linearGradient-1)" x="0" y="8" width="21" height="7"></rect>
-            <path d="M6.87363497,1.6568923 C6.60168078,1.55545057 6.30731598,1.5 6,1.5 C4.61928813,1.5 3.5,2.61928813 3.5,4 C3.5,5.38071187 4.61928813,6.5 6,6.5 C6.30731598,6.5 6.60168078,6.44454943 6.87363497,6.3431077 C6.36024587,6.75416668 5.70883166,7 5,7 C3.34314575,7 2,5.65685425 2,4 C2,2.34314575 3.34314575,1 5,1 C5.70883166,1 6.36024587,1.24583332 6.87363497,1.6568923 L6.87363497,1.6568923 Z M5.5,4 C5.22385763,4 5,3.77614237 5,3.5 C5,3.22385763 5.22385763,3 5.5,3 C5.77614237,3 6,3.22385763 6,3.5 C6,3.77614237 5.77614237,4 5.5,4 Z M6.5,6 C6.22385763,6 6,5.77614237 6,5.5 C6,5.22385763 6.22385763,5 6.5,5 C6.77614237,5 7,5.22385763 7,5.5 C7,5.77614237 6.77614237,6 6.5,6 Z M8.5,6 C8.22385763,6 8,5.77614237 8,5.5 C8,5.22385763 8.22385763,5 8.5,5 C8.77614237,5 9,5.22385763 9,5.5 C9,5.77614237 8.77614237,6 8.5,6 Z M9.5,4 C9.22385763,4 9,3.77614237 9,3.5 C9,3.22385763 9.22385763,3 9.5,3 C9.77614237,3 10,3.22385763 10,3.5 C10,3.77614237 9.77614237,4 9.5,4 Z M7.5,2.5 C7.22385763,2.5 7,2.27614237 7,2 C7,1.72385763 7.22385763,1.5 7.5,1.5 C7.77614237,1.5 8,1.72385763 8,2 C8,2.27614237 7.77614237,2.5 7.5,2.5 Z" id="Oval-12" fill="url(#linearGradient-1)"></path>
-        </g>
-    </g>
+<svg width="20" height="15" viewBox="0 0 20 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_964_6956" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="15">
+<rect width="20" height="15" fill="white"/>
+</mask>
+<g mask="url(#mask0_964_6956)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V15H20V0H0Z" fill="#F7FCFF"/>
+<mask id="mask1_964_6956" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="15">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V15H20V0H0Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_964_6956)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V7.5H20V0H0Z" fill="#E31D1C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M5.54275 6.6185C5.54275 6.6185 3.77669 5.9082 3.77669 3.98378C3.77669 2.05935 5.54275 1.37199 5.54275 1.37199C4.68441 1.1547 2.40685 1.34905 2.40685 3.98378C2.40685 6.6185 4.65 7.11538 5.54275 6.6185ZM5.99523 6.30041L6.50187 5.99455L7.01968 6.30041L6.89295 5.70356L7.31389 5.23272H6.74357L6.50187 4.67541L6.26017 5.23272L5.68889 5.25687L6.11079 5.70356L5.99523 6.30041ZM8.34331 5.9604L7.83667 6.26626L7.95223 5.6694L7.53032 5.22272L8.10161 5.19857L8.34331 4.64126L8.58501 5.19857H9.15532L8.73439 5.6694L8.86111 6.26626L8.34331 5.9604ZM7.05447 3.60619L7.56111 3.30033L8.07891 3.60619L7.95219 3.00934L8.37312 2.5385H7.80281L7.56111 1.98119L7.31941 2.5385L6.74812 2.56265L7.17003 3.00934L7.05447 3.60619ZM5.85611 4.51418L5.34947 4.82004L5.46504 4.22319L5.04313 3.7765L5.61441 3.75235L5.85611 3.19504L6.09782 3.75235H6.66813L6.24719 4.22319L6.37392 4.82004L5.85611 4.51418ZM8.69848 4.79263L9.20512 4.48677L9.72293 4.79263L9.5962 4.19578L10.0171 3.72494H9.44682L9.20512 3.16763L8.96342 3.72494L8.39214 3.74909L8.81404 4.19578L8.69848 4.79263Z" fill="#F1F9FF"/>
+</g>
+</g>
 </svg>

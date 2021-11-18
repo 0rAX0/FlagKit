@@ -1,26 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
-    <title>GT</title>
-    <desc>Created with sketchtool.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#F0F0F0" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
-            <stop stop-color="#63AEE3" offset="0%"></stop>
-            <stop stop-color="#4998D0" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="GT">
-            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
-            <rect id="Mask" fill="url(#linearGradient-2)" x="10" y="0" width="11" height="15"></rect>
-            <rect id="Rectangle-2" fill="url(#linearGradient-2)" x="0" y="0" width="7" height="15"></rect>
-            <rect id="Rectangle-2-Copy" fill="url(#linearGradient-1)" x="7" y="0" width="7" height="15"></rect>
-            <path d="M8,7 C8,7.90143048 8.48152018,8.71954992 9.24677273,9.16357911 C9.48561975,9.3021674 9.79159152,9.22089165 9.93017981,8.98204463 C10.0687681,8.74319762 9.98749235,8.43722585 9.74864534,8.29863755 C9.28867518,8.03174504 9,7.54127594 9,7 C9,6.72385763 8.77614237,6.5 8.5,6.5 C8.22385763,6.5 8,6.72385763 8,7 Z M11.8455353,9.10731545 C12.5588244,8.65111736 13,7.86294784 13,7 C13,6.72385763 12.7761424,6.5 12.5,6.5 C12.2238576,6.5 12,6.72385763 12,7 C12,7.5182519 11.7356132,7.99058439 11.3067388,8.26487951 C11.0741065,8.41366406 11.0061345,8.72286348 11.1549191,8.95549574 C11.3037036,9.188128 11.612903,9.2561 11.8455353,9.10731545 Z" id="Oval-5" fill="#628A40" fill-rule="nonzero"></path>
-            <circle id="Oval-5" fill="#DCC26D" cx="10.5" cy="7" r="1"></circle>
-        </g>
-    </g>
+<svg width="20" height="15" viewBox="0 0 20 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_964_6847" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="15">
+<rect width="20" height="15" fill="white"/>
+</mask>
+<g mask="url(#mask0_964_6847)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M14 0H20V15H14V0Z" fill="#58A5FF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0H6V15H0V0Z" fill="#58A5FF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6 0H14V15H6V0Z" fill="white"/>
+<path d="M7.97784 10.6484L7.52376 10.2189L12.3284 5.13884L12.7825 5.5683L7.97784 10.6484Z" fill="#C6C6C6"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M8.11548 5.0659C8.11548 5.0659 6.57742 5.99414 6.57742 8.32112C6.57742 10.6481 10.322 10.9629 10.322 10.9629C10.322 10.9629 8.08112 9.59613 7.78784 8.61763C7.49455 7.63913 8.11548 5.0659 8.11548 5.0659Z" fill="#5AB92D"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11.9089 5.0659C11.9089 5.0659 13.447 5.99414 13.447 8.32112C13.447 10.6481 9.70243 10.9629 9.70243 10.9629C9.70243 10.9629 12.0573 9.61241 12.3873 8.32112C12.7174 7.02983 11.9089 5.0659 11.9089 5.0659Z" fill="#5AB92D"/>
+<path d="M9.25478 4.74973L9.87722 4.80622C9.85675 5.03174 9.97995 5.26128 10.2846 5.50764C11.265 6.3006 11.7919 7.28975 11.379 8.41378C11.0793 9.22942 10.6723 9.9181 10.1573 10.4775L9.69749 10.0541C10.1548 9.55744 10.5199 8.93961 10.7923 8.19825C11.0889 7.39093 10.6874 6.63734 9.89151 5.99359C9.43802 5.6268 9.21319 5.20791 9.25478 4.74973Z" fill="#5AB92D"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M8.85864 6.13058L9.51443 7.98444H9.03238C9.03238 7.98444 8.85864 8.56948 9.18654 8.56948C9.51443 8.56948 11.2042 8.56948 11.2042 8.56948C11.2042 8.56948 11.4239 8.42278 11.314 7.98444C11.2042 7.54609 10.6492 6.33601 10.6492 6.33601C10.6492 6.33601 10.8863 6.13518 10.8863 5.98632C10.8863 5.83746 10.6492 5.82106 10.6492 5.82106H9.15225C8.96118 5.85409 8.85864 6.13058 8.85864 6.13058Z" fill="#EFE298"/>
+</g>
 </svg>

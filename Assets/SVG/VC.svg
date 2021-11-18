@@ -1,37 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
-    <title>VC</title>
-    <desc>Created with sketchtool.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#F0F0F0" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
-            <stop stop-color="#08C47A" offset="0%"></stop>
-            <stop stop-color="#009F60" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
-            <stop stop-color="#0C87E1" offset="0%"></stop>
-            <stop stop-color="#0073C7" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
-            <stop stop-color="#FFD147" offset="0%"></stop>
-            <stop stop-color="#FECA2F" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
-            <stop stop-color="#00C778" offset="0%"></stop>
-            <stop stop-color="#009F60" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="VC">
-            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
-            <rect id="Mask" fill="url(#linearGradient-2)" x="10" y="0" width="11" height="15"></rect>
-            <rect id="Rectangle-2" fill="url(#linearGradient-3)" x="0" y="0" width="7" height="15"></rect>
-            <rect id="Rectangle-2-Copy" fill="url(#linearGradient-4)" x="6" y="0" width="9" height="15"></rect>
-            <path d="M11,6 L12.5,3 L14,6 L12.5,9 L11,6 Z M7,6 L8.5,3 L10,6 L8.5,9 L7,6 Z M9,10 L10.5,7 L12,10 L10.5,13 L9,10 Z" id="Rectangle-1194" fill="url(#linearGradient-5)"></path>
-        </g>
-    </g>
+<svg width="20" height="15" viewBox="0 0 20 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_964_6995" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="15">
+<rect width="20" height="15" fill="white"/>
+</mask>
+<g mask="url(#mask0_964_6995)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M5 0H15V15H5V0Z" fill="#FFDC17"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15 0H20V15H15V0Z" fill="#5FBF2B"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0H5V15H0V0Z" fill="#2E42A5"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12.329 3.125L10.4289 5.9143L12.329 8.60494L14.2291 5.9143L12.329 3.125ZM7.67327 3.17428L5.625 5.9143L7.52507 8.55577L9.42514 5.9143L7.67327 3.17428ZM8.02696 8.993L10.0752 6.25298L11.8271 8.993L10.0752 11.8132L8.02696 8.993Z" fill="#5FBF2B"/>
+</g>
 </svg>

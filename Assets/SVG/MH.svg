@@ -1,29 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
-    <title>MH</title>
-    <desc>Created with sketchtool.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#F0F0F0" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
-            <stop stop-color="#064DAE" offset="0%"></stop>
-            <stop stop-color="#003D91" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
-            <stop stop-color="#F18D36" offset="0%"></stop>
-            <stop stop-color="#DB761E" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="MH">
-            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
-            <rect id="Mask-Copy" fill="url(#linearGradient-2)" x="0" y="0" width="21" height="15"></rect>
-            <polygon id="Rectangle-253" fill="url(#linearGradient-3)" points="21 0 21 4 0 15"></polygon>
-            <polygon id="Rectangle-253" fill="url(#linearGradient-1)" points="21 8 21 4 0 15"></polygon>
-            <path d="M4.83882103,4.3717472 L4.5,2 L4.16117897,4.3717472 L3.25,3.33493649 L3.71780952,4.71780952 L2.33493649,4.25 L3.3717472,5.16117897 L1,5.5 L3.3717472,5.83882103 L2.33493649,6.75 L3.71780952,6.28219048 L3.25,7.66506351 L4.16117897,6.6282528 L4.5,9 L4.83882103,6.6282528 L5.75,7.66506351 L5.28219048,6.28219048 L6.66506351,6.75 L5.6282528,5.83882103 L8,5.5 L5.6282528,5.16117897 L6.66506351,4.25 L5.28219048,4.71780952 L5.75,3.33493649 L4.83882103,4.3717472 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
-        </g>
-    </g>
+<svg width="20" height="15" viewBox="0 0 20 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_964_6899" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="15">
+<rect width="20" height="15" fill="white"/>
+</mask>
+<g mask="url(#mask0_964_6899)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V15H20V0H0Z" fill="#3D58DB"/>
+<mask id="mask1_964_6899" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="15">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V15H20V0H0Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_964_6899)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M5 6.875L4.48938 8.71507L4.49413 6.80547L3.506 8.43954L4.02578 6.60204L2.63342 7.90892L3.62968 6.27979L1.93636 7.16255L3.33522 5.86262L1.46652 6.2558L3.16422 5.38148L1.25874 5.25591L3.12937 4.87205L1.32843 4.23704L3.23326 4.3721L1.67043 3.27476L3.46818 3.91872L2.25937 2.44043L3.81671 3.54554L3.05156 1.79593L4.253 3.28023L3.98826 1.38906L4.74469 3.14246L5 1.25L5.25531 3.14246L6.01174 1.38906L5.747 3.28023L6.94844 1.79593L6.18329 3.54554L7.74063 2.44043L6.53182 3.91872L8.32957 3.27476L6.76674 4.3721L8.67157 4.23704L6.87063 4.87205L8.74126 5.25591L6.83578 5.38148L8.53348 6.2558L6.66478 5.86262L8.06364 7.16255L6.37032 6.27979L7.36658 7.90892L5.97422 6.60204L6.494 8.43954L5.50587 6.80547L5.51062 8.71507L5 6.875Z" fill="#F7FCFF"/>
+<path d="M-0.488739 15.4658L20.7864 0.759277V5.55351L-0.488739 15.4658Z" fill="white"/>
+<path d="M-0.488739 15.4658L20.7864 -2.99072V1.80351L-0.488739 15.4658Z" fill="#E2AE57"/>
+</g>
+</g>
 </svg>

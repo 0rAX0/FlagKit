@@ -1,37 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
-    <title>TZ</title>
-    <desc>Created with sketchtool.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#F0F0F0" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
-            <stop stop-color="#33CC4D" offset="0%"></stop>
-            <stop stop-color="#2AB441" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
-            <stop stop-color="#2DAFE4" offset="0%"></stop>
-            <stop stop-color="#1BA4DC" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
-            <stop stop-color="#FFD84F" offset="0%"></stop>
-            <stop stop-color="#FCD036" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
-            <stop stop-color="#262626" offset="0%"></stop>
-            <stop stop-color="#0D0D0D" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="TZ">
-            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
-            <polygon id="Rectangle-2" fill="url(#linearGradient-2)" points="0.00149566929 10.0039496 21.0014957 0.00394961946 0.00149566929 0.00394961946"></polygon>
-            <polygon id="Rectangle-2" fill="url(#linearGradient-3)" points="0.00149566929 15.0039496 21.0014957 15.0039496 21.0014957 5.00394962"></polygon>
-            <polygon id="Rectangle-2" fill="url(#linearGradient-4)" points="2.31328447 17.0039725 22.6295352 4.30897007 18.6897069 -1.99607326 -1.62654387 10.6989292"></polygon>
-            <polygon id="Rectangle-2" fill="url(#linearGradient-5)" points="-0.470403564 17.3078992 24.1229912 1.94024053 21.4733949 -2.29999995 -3.11999989 13.0676587"></polygon>
-        </g>
-    </g>
+<svg width="20" height="15" viewBox="0 0 20 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_964_6987" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="15">
+<rect width="20" height="15" fill="white"/>
+</mask>
+<g mask="url(#mask0_964_6987)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V15H20V0H0Z" fill="#3195F9"/>
+<mask id="mask1_964_6987" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="15">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V15H20V0H0Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_964_6987)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V15L20 0H0Z" fill="#73BE4A"/>
+<path d="M-1.13854 15.8995L-0.70481 16.5493L-0.0550152 16.1156L22.6081 0.988416L23.2579 0.554691L22.8241 -0.0951043L21.4362 -2.17445L21.0025 -2.82424L20.3527 -2.39052L-2.31039 12.7367L-2.96018 13.1704L-2.52646 13.8202L-1.13854 15.8995Z" fill="#272727" stroke="#FFD018" stroke-width="1.5625"/>
+</g>
+</g>
 </svg>

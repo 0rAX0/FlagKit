@@ -1,75 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
-    <title>NA</title>
-    <desc>Created with sketchtool.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#F0F0F0" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
-            <stop stop-color="#0C4799" offset="0%"></stop>
-            <stop stop-color="#05387E" offset="100%"></stop>
-        </linearGradient>
-        <polygon id="path-3" points="3.12149555 12.3039496 24.1214956 2.30394957 3.12149555 2.30394957"></polygon>
-        <filter x="-3.6%" y="-7.5%" width="107.1%" height="115.0%" filterUnits="objectBoundingBox" id="filter-4">
-            <feMorphology radius="0.25" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
-            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
-        </filter>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
-            <stop stop-color="#FFD243" offset="0%"></stop>
-            <stop stop-color="#FFCD2F" offset="100%"></stop>
-        </linearGradient>
-        <polygon id="path-6" points="6.62149555 6.80394957 5.85612869 7.65170864 5.91438877 6.51105635 4.77373649 6.56931644 5.62149555 5.80394957 4.77373649 5.03858271 5.91438877 5.09684279 5.85612869 3.95619051 6.62149555 4.80394957 7.38686242 3.95619051 7.32860234 5.09684279 8.46925462 5.03858271 7.62149555 5.80394957 8.46925462 6.56931644 7.32860234 6.51105635 7.38686242 7.65170864"></polygon>
-        <filter x="-6.2%" y="-6.2%" width="112.5%" height="125.0%" filterUnits="objectBoundingBox" id="filter-7">
-            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
-        </filter>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-8">
-            <stop stop-color="#1BAC55" offset="0%"></stop>
-            <stop stop-color="#149447" offset="100%"></stop>
-        </linearGradient>
-        <polygon id="path-9" points="3.12149555 17.3039496 24.1214956 17.3039496 24.1214956 7.30394957"></polygon>
-        <filter x="-3.6%" y="-7.5%" width="107.1%" height="115.0%" filterUnits="objectBoundingBox" id="filter-10">
-            <feMorphology radius="0.25" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
-            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
-        </filter>
-        <polygon id="path-11" points="5.43328436 19.3039725 25.7495351 6.60897002 21.8097068 0.30392669 1.49345602 12.9989291"></polygon>
-        <filter x="-3.1%" y="-3.9%" width="106.2%" height="107.9%" filterUnits="objectBoundingBox" id="filter-12">
-            <feMorphology radius="0.25" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
-            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
-        </filter>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-13">
-            <stop stop-color="#E52347" offset="0%"></stop>
-            <stop stop-color="#D01739" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="NA">
-            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
-            <g id="Group-2" transform="translate(-3.120000, -2.300000)">
-                <g id="Rectangle-2">
-                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
-                    <use fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-3"></use>
-                </g>
-                <g id="Star-31">
-                    <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
-                    <use fill="url(#linearGradient-5)" fill-rule="evenodd" xlink:href="#path-6"></use>
-                </g>
-                <g id="Rectangle-2">
-                    <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
-                    <use fill="url(#linearGradient-8)" fill-rule="evenodd" xlink:href="#path-9"></use>
-                </g>
-                <g id="Rectangle-2">
-                    <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
-                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-11"></use>
-                </g>
-                <polygon id="Rectangle-2" fill="url(#linearGradient-13)" points="2.64959632 19.6078991 27.2429911 4.24024048 24.5933948 1.77635684e-15 -1.77635684e-14 15.3676587"></polygon>
-            </g>
-        </g>
-    </g>
+<svg width="20" height="15" viewBox="0 0 20 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_964_6917" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="15">
+<rect width="20" height="15" fill="white"/>
+</mask>
+<g mask="url(#mask0_964_6917)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V15H20V0H0Z" fill="#009933"/>
+<mask id="mask1_964_6917" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="15">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V15H20V0H0Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_964_6917)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V15L20 0H0Z" fill="#3195F9"/>
+<path d="M-0.632779 16.9335L-0.301182 17.5343L0.26609 17.1481L22.036 2.32979L22.4748 2.0311L22.2511 1.54972L20.7874 -1.59977L20.4804 -2.26045L19.8741 -1.85649L-2.22321 12.8663L-2.70167 13.1851L-2.42385 13.6885L-0.632779 16.9335Z" fill="#E31D1C" stroke="#F7FCFF" stroke-width="1.25"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3.89353 5.77797L3.08472 6.78704L2.88881 5.50875L1.68382 5.97823L2.1533 4.77324L0.875015 4.57733L1.88408 3.76852L0.875015 2.95971L2.1533 2.76379L1.68382 1.55881L2.88881 2.02828L3.08472 0.75L3.89353 1.75907L4.70234 0.75L4.89826 2.02828L6.10324 1.55881L5.63377 2.76379L6.91205 2.95971L5.90299 3.76852L6.91205 4.57733L5.63377 4.77324L6.10324 5.97823L4.89826 5.50875L4.70234 6.78704L3.89353 5.77797ZM3.89353 5.33102C4.75648 5.33102 5.45603 4.63146 5.45603 3.76852C5.45603 2.90557 4.75648 2.20602 3.89353 2.20602C3.03059 2.20602 2.33103 2.90557 2.33103 3.76852C2.33103 4.63146 3.03059 5.33102 3.89353 5.33102ZM5.14353 3.76852C5.14353 4.45887 4.58389 5.01852 3.89353 5.01852C3.20318 5.01852 2.64353 4.45887 2.64353 3.76852C2.64353 3.07816 3.20318 2.51852 3.89353 2.51852C4.58389 2.51852 5.14353 3.07816 5.14353 3.76852Z" fill="#FECA00"/>
+</g>
+</g>
 </svg>

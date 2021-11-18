@@ -1,28 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
-    <title>WS</title>
-    <desc>Created with sketchtool.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#F0F0F0" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
-            <stop stop-color="#E31F37" offset="0%"></stop>
-            <stop stop-color="#CC162C" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
-            <stop stop-color="#083B9A" offset="0%"></stop>
-            <stop stop-color="#042E7D" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="WS">
-            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
-            <rect id="Mask-Copy" fill="url(#linearGradient-2)" x="0" y="0" width="21" height="15"></rect>
-            <polygon id="Rectangle-2" fill="url(#linearGradient-3)" points="0 8 11 8 11 0 0 0"></polygon>
-            <path d="M5,7 L4.29289322,7.20710678 L4.5,6.5 L4.29289322,5.79289322 L5,6 L5.70710678,5.79289322 L5.5,6.5 L5.70710678,7.20710678 L5,7 Z M5,2 L4.29289322,2.20710678 L4.5,1.5 L4.29289322,0.792893219 L5,1 L5.70710678,0.792893219 L5.5,1.5 L5.70710678,2.20710678 L5,2 Z M3,4.5 L2.29289322,4.70710678 L2.5,4 L2.29289322,3.29289322 L3,3.5 L3.70710678,3.29289322 L3.5,4 L3.70710678,4.70710678 L3,4.5 Z M7.5,4 L6.79289322,4.20710678 L7,3.5 L6.79289322,2.79289322 L7.5,3 L8.20710678,2.79289322 L8,3.5 L8.20710678,4.20710678 L7.5,4 Z M6.25,5.5 C6.11192881,5.5 6,5.38807119 6,5.25 C6,5.11192881 6.11192881,5 6.25,5 C6.38807119,5 6.5,5.11192881 6.5,5.25 C6.5,5.38807119 6.38807119,5.5 6.25,5.5 Z" id="Star-2" fill="url(#linearGradient-1)"></path>
-        </g>
-    </g>
+<svg width="20" height="15" viewBox="0 0 20 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_964_7002" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="15">
+<rect width="20" height="15" fill="white"/>
+</mask>
+<g mask="url(#mask0_964_7002)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V15H20V0H0Z" fill="#C51918"/>
+<mask id="mask1_964_7002" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="15">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V15H20V0H0Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_964_7002)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V8.75H10V0H0Z" fill="#2E42A5"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M2.22854 4.85748L1.56601 5.25745L1.71713 4.47695L1.16541 3.89282L1.91247 3.86124L2.22854 3.13245L2.54461 3.86124H3.29041L2.73995 4.47695L2.90567 5.25745L2.22854 4.85748Z" fill="#FEFFFF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7.22854 4.85748L6.56601 5.25745L6.71713 4.47695L6.16541 3.89282L6.91247 3.86124L7.22854 3.13245L7.54461 3.86124H8.29041L7.73995 4.47695L7.90567 5.25745L7.22854 4.85748Z" fill="#FEFFFF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4.666 2.58621L4.04245 2.96265L4.18468 2.22806L3.66541 1.67829L4.36853 1.64857L4.666 0.962646L4.96348 1.64857H5.66541L5.14733 2.22806L5.3033 2.96265L4.666 2.58621Z" fill="#FEFFFF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M5.34141 5.26576L4.95168 5.50104L5.04058 5.04192L4.71603 4.69832L5.15548 4.67974L5.34141 4.25104L5.52733 4.67974H5.96603L5.64224 5.04192L5.73972 5.50104L5.34141 5.26576Z" fill="#FEFFFF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4.63047 8.01768L3.69514 8.58234L3.90848 7.48046L3.12958 6.65581L4.18426 6.61122L4.63047 5.58234L5.07669 6.61122H6.12958L5.35247 7.48046L5.58642 8.58234L4.63047 8.01768Z" fill="#FEFFFF"/>
+</g>
+</g>
 </svg>

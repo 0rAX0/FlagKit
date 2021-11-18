@@ -1,29 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
-    <title>LA</title>
-    <desc>Created with sketchtool.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#F0F0F0" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
-            <stop stop-color="#073A88" offset="0%"></stop>
-            <stop stop-color="#032A67" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
-            <stop stop-color="#E2273E" offset="0%"></stop>
-            <stop stop-color="#CC162C" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="LA">
-            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
-            <rect id="Rectangle-2-Copy-4" fill="url(#linearGradient-2)" x="0" y="4" width="21" height="7"></rect>
-            <rect id="Rectangle-2" fill="url(#linearGradient-3)" x="0" y="0" width="21" height="4"></rect>
-            <rect id="Rectangle-2" fill="url(#linearGradient-3)" x="0" y="11" width="21" height="4"></rect>
-            <circle id="Oval-12" fill="url(#linearGradient-1)" cx="10.5" cy="7.5" r="2.5"></circle>
-        </g>
-    </g>
+<svg width="20" height="15" viewBox="0 0 20 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_964_6882" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="15">
+<rect width="20" height="15" fill="white"/>
+</mask>
+<g mask="url(#mask0_964_6882)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 10H20V15H0V10Z" fill="#E31D1C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 5H20V10H0V5Z" fill="#2E42A5"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0H20V5H0V0Z" fill="#E31D1C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 9.83749C11.2944 9.83749 12.3438 8.78816 12.3438 7.49374C12.3438 6.19933 11.2944 5.14999 10 5.14999C8.70558 5.14999 7.65625 6.19933 7.65625 7.49374C7.65625 8.78816 8.70558 9.83749 10 9.83749Z" fill="#F7FCFF"/>
+</g>
 </svg>
