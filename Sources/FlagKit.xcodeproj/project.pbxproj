@@ -29,6 +29,8 @@
 		3AF78CEE1F31CE0400BD3D10 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3AF78CEC1F31CE0400BD3D10 /* LaunchScreen.storyboard */; };
 		3AF78CF31F31CF9100BD3D10 /* FlagKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A49DD811F2F63F90007E46E /* FlagKit.framework */; };
 		3AF78CF41F31CF9100BD3D10 /* FlagKit.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 3A49DD811F2F63F90007E46E /* FlagKit.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		EBA8ADDF27466805003E0106 /* FlagKit.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A49DD8D1F2F665E0007E46E /* FlagKit.xcassets */; };
+		EBA8ADE027466806003E0106 /* FlagKit.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A49DD8D1F2F665E0007E46E /* FlagKit.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -313,6 +315,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EBA8ADDF27466805003E0106 /* FlagKit.xcassets in Resources */,
 				3ACCEF1B1F38B2CB00B7CA85 /* Fixtures.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -323,6 +326,7 @@
 			files = (
 				3AF78CEE1F31CE0400BD3D10 /* LaunchScreen.storyboard in Resources */,
 				3AF78CEB1F31CE0400BD3D10 /* Assets.xcassets in Resources */,
+				EBA8ADE027466806003E0106 /* FlagKit.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
