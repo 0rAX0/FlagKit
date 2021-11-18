@@ -89,7 +89,7 @@ extension Flag {
         Flag(countryCode: "FO")!,
         Flag(countryCode: "FR")!,
         Flag(countryCode: "GA")!,
-        Flag(countryCode: "ENG")!,
+        Flag(countryCode: "GB-ENG")!,
         Flag(countryCode: "GB-NIR")!,
         Flag(countryCode: "GB-SCT")!,
         Flag(countryCode: "GB-UKM")!,
